@@ -23,11 +23,11 @@ Allows journalists to manually verify, annotate, or flag statements for review.
 Saves event histories with verified claims and generates sharable reports.
 
 🚀 Tech Stack
-Technology	                  Purpose
-React.js	                    Frontend UI
-Node.js + Express.js	        Backend API
-MongoDB	Database for          claims, users, reports
-Python (Flask/FastAPI)        NLP,fact matching engine
-Whisper API / Google STT	    Speech-to-text conversion
-Fact-Check APIs	              Claim validation from trusted sources
+
+React.js  - Frontend UI
+Node.js + Express.js- Backend API
+MongoDB	Database for - claims, users, reports
+Python (Flask/FastAPI) - NLP,fact matching engine
+Whisper API / Google STT- Speech-to-text conversion
+Fact-Check APIs	- Claim validation from trusted sources
 
