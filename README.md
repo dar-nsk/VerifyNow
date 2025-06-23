@@ -23,11 +23,19 @@ Allows journalists to manually verify, annotate, or flag statements for review.
 Saves event histories with verified claims and generates sharable reports.
 
 🚀 Tech Stack
+Frontend
+HTML, CSS, JavaScript — Clean and responsive user interface for journalists and moderators
 
-React.js  - Frontend UI
-Node.js + Express.js- Backend API
-MongoDB	Database for - claims, users, reports
-Python (Flask/FastAPI) - NLP,fact matching engine
-Whisper API / Google STT- Speech-to-text conversion
-Fact-Check APIs	- Claim validation from trusted sources
+React.js (optional/if used) — Dynamic component-based UI for better user experience
 
+🔧 Backend
+Node.js, Express.js — Server-side logic, API handling, user authentication, and event processing
+
+MySQL — Relational database to store users, statements, verified claims, event logs, and reports
+
+🧠 AI & NLP Integration
+Python, Flask — Handles Natural Language Processing tasks like entity extraction and claim matching
+
+OpenAI Whisper / Google Speech-to-Text — Converts live audio streams into text
+
+ClaimReview / Fact-Check APIs — Fetches fact-checked content from verified sources for real-time matching
