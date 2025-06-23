@@ -24,15 +24,15 @@ Saves event histories with verified claims and generates sharable reports.
 
 🚀 Tech Stack
 
-Frontend
+Frontend :
 HTML, CSS, JavaScript — Clean and responsive user interface for journalists and moderators
 React.js (optional/if used) — Dynamic component-based UI for better user experience
 
-🔧 Backend
+🔧 Backend :
 Node.js, Express.js — Server-side logic, API handling, user authentication, and event processing
 MySQL — Relational database to store users, statements, verified claims, event logs, and reports
 
-🧠 AI & NLP Integration
+🧠 AI & NLP Integration :
 Python, Flask — Handles Natural Language Processing tasks like entity extraction and claim matching
 OpenAI Whisper / Google Speech-to-Text — Converts live audio streams into text
 ClaimReview / Fact-Check APIs — Fetches fact-checked content from verified sources for real-time matching
