@@ -3,6 +3,8 @@ Empowering Journalists. Ensuring Truth. Combating Misinformation.
 
 VerifyNow is a real-time fact-checking platform designed to assist journalists and media professionals in verifying live statements during press conferences, political events, or breaking news. By leveraging AI, NLP, and verified sources, VerifyNow ensures transparency and helps combat the rapid spread of false or misleading information.
 
+![Image](https://github.com/user-attachments/assets/714a0d86-2ea7-4901-a359-9da555070bdc)
+
 🧠 Key Features
 🎙️ Live Transcript Analysis
 Converts live audio into text using speech-to-text technology and breaks down statements for individual analysis.
